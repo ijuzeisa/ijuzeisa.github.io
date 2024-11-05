@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijuzeisa.github.io/BOf/sitemap_index.txt
+Sitemap: https://ijuzeisa.github.io/MhG/sitemap_index.txt
+Sitemap: https://ijuzeisa.github.io/QeR/sitemap_index.txt
+Sitemap: https://ijuzeisa.github.io/mJr/sitemap_index.txt
